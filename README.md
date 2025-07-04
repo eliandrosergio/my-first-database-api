@@ -90,5 +90,5 @@ my-first-database-api/
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## Contato
-Autor: efaustin  
+Autor: eliandrosergio  
 Para dúvidas ou sugestões, abra uma *issue* no repositório ou entre em contato pelo GitHub.
